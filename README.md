@@ -91,9 +91,9 @@ http://localhost:8080/YourProjectName/index.html
 ![View Employees](src/main/screenshots/view.png)
 
 
-📄 License
+📄 License: 
 This project is open-source and available under the MIT License.
 
-👨‍💻 Author
+👨‍💻 Author: 
 Techy (Roshlan) – Passionate Java Developer, building clean and functional web applications.
 
